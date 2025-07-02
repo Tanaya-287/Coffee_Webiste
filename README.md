@@ -22,30 +22,13 @@ Welcome to the **Coffee Shop Website** — a beautifully designed and fully resp
 - Google Fonts
 - Swiper.js (for testimonials slider)
 
-## 📂 Project Structure
 
-coffee-shop-website/
-│
-├── index.html
-├── style.css
-├── contact.css
-├── script.js
-├── /images
-│ └── (all your image assets)
-└── README.md
-
-
-
-## 📸 Screenshot
-
-![Coffee Shop Website Screenshot](./images/screenshot.png)
 
 ## 📩 Contact
 
 Feel free to get in touch:
 
-- 📬 Email: info@coffeeshopwebsite.com  
-- 🌐 Website: [www.codingnepalweb.com](https://www.codingnepalweb.com)
+- 📬 Email: tanupatil287@gmail.com 
 
 ---
 
